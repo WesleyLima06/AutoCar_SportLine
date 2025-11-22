@@ -1,0 +1,240 @@
+[
+  {
+    "nome": " Porsche 911",
+    "descricao": "O Porsche 911 é um carro esportivo com 6 cilindros boxer.",
+    "ano": 1963,
+    "link": "https://www.porsche.com/brazil/pt/models/911/",
+    "imagem": "porsche.jpg"
+  },
+  {
+    "nome": " Bugatti Chiron Super Sport 300+",
+    "descricao": "O bugatti Chiron Super Sport 300+ é uma serie especial e limitada do Chiron.",
+    "ano": 1963,
+    "link": "https://www.bugatti.com/en/models/chiron-super-sport-300",
+    "imagem": "Bugatti.png"
+  },
+  {
+    "nome": "Ferrari 488 GTB",
+    "descricao": "A Ferrari 488 GTB é um carro esportivo com motor V8 biturbo, sucessor da 458 Italia.",
+    "ano": 2015,
+    "link": "https://www.ferrari.com/pt-BR/auto/488-gtb",
+    "imagem": "ferrari.jpg"
+  },
+  {
+    "nome": "Lamborghini Aventador SVJ",
+    "descricao": "O Lamborghini Aventador SVJ é uma versão de alto desempenho do Aventador, conhecido por seu motor V12 e aerodinâmica ativa.",
+    "ano": 2018,
+    "link": "https://www.lamborghini.com/en-en/models/aventador/aventador-svj",
+    "imagem": "Lamborghini.jpg"
+  },
+  {
+    "nome": "McLaren 720S",
+    "descricao": "O McLaren 720S é um supercarro com motor V8 biturbo, famoso por sua leveza e performance excepcional.",
+    "ano": 2017,
+    "link": "https://cars.mclaren.com/en/super-series/720s",
+    "imagem": "McLaren.jpg"
+  },
+  {
+    "nome": "Ford GT",
+    "descricao": "O Ford GT é um supercarro de motor central, inspirado nos carros de corrida GT40 que venceram Le Mans.",
+    "ano": 2017,
+    "link": "https://www.ford.com/performance/gt/",
+    "imagem": "Ford.jpg"
+  },
+  {
+    "nome": "Mustang V8 Dark Horse",
+    "descricao": "O Mustang V8 Dark Horse é a versão mais potente do Mustang vendida no Brasil, equipada com um motor V8 Coyote 5.0 de 507 cavalos de potência e 57,8 kgfm de torque.",
+    "ano": 1964,
+    "link": "https://www.ford.com.br/performance/mustang-dark-horse/?utm_source=google-ads_na&utm_medium=search&utm_content=search_mustang-dark-horse-search_119860_awareness&utm_campaign=lancamento&bannerid=119860|google-ads|na|search|mustang-dark-horse-search|lancamento|awareness&gclsrc=aw.ds&gad_source=1&gad_campaignid=23072084396&gbraid=0AAAAADxk-g1fU4FG9Kb607F9GqEz03TqS&gclid=CjwKCAiAuIDJBhBoEiwAxhgyFqwfeIG3DdVJmJyX3TlrYUk-NkTpDu2fnlX3TGMWqQMejdOwUsmA2xoC0fYQAvD_BwE",
+    "imagem": "Mustang.png"
+  },
+  {
+    "nome": "Chevrolet Corvette C8",
+    "descricao": "O Chevrolet Corvette C8 é a oitava geração do Corvette, conhecida por mudar o motor para a posição central-traseira, o que melhorou significativamente seu desempenho e dirigibilidade.",
+    "ano": 2020,
+    "link": "https://www.chevrolet.com/performance/corvette?x-modelyear=&x-carline=&x-bodystyle=&x-provider-id=560803",
+    "imagem": "Corvette.jpg"
+  },
+  {
+    "nome": "Nissan Skyline GT-R",
+    "descricao": "O Nissan Skyline GT-R é uma versão de alto desempenho do sedã Skyline, conhecida como 'Godzilla' e icônica por sua performance, especialmente a partir da geração R32.",
+    "ano": 1999,
+    "link": "https://www.nissan.com.br/experiencia-nissan/gt-r.html",
+    "imagem": "Skyline.jpg"
+  },
+  {
+    "nome": "Ferrari SF90 Stradale",
+    "descricao": "O primeiro carro esportivo híbrido plug-in da Ferrari. Um supercarro com tração integral e um V8 biturbo assistido por três motores elétricos, totalizando 1000 cv.",
+    "ano": 2020,
+    "link": "https://www.ferrari.com/pt-BR/auto/sf90-stradale",
+    "imagem": "ferrari_SF90.jpg"
+  },
+  {
+    "nome": "Lamborghini Huracán Tecnica",
+    "descricao": "Uma versão de alta performance que preenche a lacuna entre o Huracán EVO e o Super Trofeo, focado em leveza e precisão na direção.",
+    "ano": 2022,
+    "link": "https://www.lamborghini.com/pt-en/modelos/huracan/huracan-tecnica",
+    "imagem": "lamborghini_Huracan.jpg"
+  },
+  {
+    "nome": "McLaren P1",
+    "descricao": "Um dos membros da 'Santa Trindade' dos hipercarros híbridos da década de 2010. Limitado a 375 unidades, utiliza um sistema IPAS (Instant Power Assist System).",
+    "ano": 2013,
+    "link": "https://www.mclaren.com/automotive/history/p1/",
+    "imagem": "Mclaren_P1.jpg"
+  },
+  {
+    "nome": "Koenigsegg Jesko Absolut",
+    "descricao": "Projetado para ser o carro de produção mais rápido da história da Koenigsegg, focado em aerodinâmica ultrabaixa para atingir velocidades máximas extremas.",
+    "ano": 2020,
+    "link": "https://www.koenigsegg.com/model/jesko-absolut",
+    "imagem": "Koenigsegg.jpg"
+  },
+  {
+    "nome": "Porsche 918 Spyder",
+    "descricao": "Um hipercarro híbrido de dois lugares de edição limitada. Seu motor V8 de 4.6 litros funciona em conjunto com dois motores elétricos, oferecendo desempenho brutal e eficiência.",
+    "ano": 2013,
+    "link": "https://www.porsche.com/international/models/918/918-spyder/",
+    "imagem": "porsche918.jpg"
+  },
+  {
+    "nome": "Aston Martin Valkyrie",
+    "descricao": "Um hipercarro de estrada desenvolvido em colaboração com a Red Bull Racing, com um motor V12 naturalmente aspirado e design aerodinâmico inspirado na Fórmula 1.",
+    "ano": 2022,
+    "link": "https://www.astonmartin.com/en/models/valkyrie",
+    "imagem": "Aston_Martin.jpg"
+  },
+  {
+    "nome": "Mercedes-AMG ONE",
+    "descricao": "Um hipercarro híbrido que traz a tecnologia de propulsão híbrida da Fórmula 1 diretamente para as ruas, usando um motor V6 de 1.6 litro e quatro motores elétricos.",
+    "ano": 2022,
+    "link": "https://www.mercedes-amg.com/en/vehicles/one/hypercar.html",
+    "imagem": "mercedes.jpg"
+  },
+  {
+    "nome": "Bugatti Veyron Super Sport",
+    "descricao": "Versão extrema do Veyron original, que quebrou o recorde de velocidade máxima para carros de produção, atingindo 431 km/h graças ao seu motor W16 quad-turbo de 1200 cv.",
+    "ano": 2010,
+    "link": "https://www.bugatti.com/history/veyron/",
+    "imagem": "bugatti_Veyron.jpg"
+  },
+  {
+    "nome": "Lexus LFA",
+    "descricao": "Supercarro japonês de edição limitada, reverenciado por seu motor V10 naturalmente aspirado desenvolvido pela Yamaha, conhecido por seu som único e rotações rápidas.",
+    "ano": 2010,
+    "link": "https://www.lexus.com/en/history/lfa",
+    "imagem": "Lexus.jpg"
+  },
+  {
+    "nome": "Audi R8 V10 Performance",
+    "descricao": "A segunda geração do supercarro de motor central da Audi. Compartilha sua arquitetura e motor V10 de 5.2 litros com o Lamborghini Huracán, oferecendo performance excepcional e usabilidade diária.",
+    "ano": 2019,
+    "link": "https://www.audiusa.com/us/web/en/models/r8/r8-coupe.html",
+    "imagem": "Audi_R8.jpg"
+  },
+  {
+    "nome": "Jaguar F-Type R Coupé",
+    "descricao": "Um cupê esportivo GT britânico equipado com um poderoso motor V8 supercharged, famoso por seu design elegante e o som agressivo de seu escapamento.",
+    "ano": 2020,
+    "link": "https://www.jaguar.com/jaguar-range/f-type/index.html",
+    "imagem": "Jaguar.jpg"
+  },
+  {
+    "nome": "Maserati MC20",
+    "descricao": "Marca o retorno da Maserati ao segmento de supercarros de motor central, apresentando o inovador motor 'Nettuno' V6 biturbo com tecnologia de pré-câmara de combustão.",
+    "ano": 2021,
+    "link": "https://www.maserati.com/global/en/models/mc20",
+    "imagem": "Maserati.jpg"
+  },
+  {
+    "nome": "Acura NSX Type S",
+    "descricao": "A versão final e de maior desempenho da segunda geração do NSX. É um híbrido de tração integral com maior potência, turbos aprimorados e ajustes de suspensão mais esportivos.",
+    "ano": 2022,
+    "link": "https://www.acura.com/performance/nsx",
+    "imagem": "Acura.jpg"
+  },
+  {
+    "nome": "Lotus Evija",
+    "descricao": "O primeiro hipercarro totalmente elétrico da Lotus e o primeiro carro de produção com zero emissões da marca, conhecido por sua potência próxima a 2000 cv e carroceria de fibra de carbono.",
+    "ano": 2019,
+    "link": "https://www.lotuscars.com/en-US/model/evija/",
+    "imagem": "Lotus.jpg"
+  },
+  {
+    "nome": "Pagani Zonda R",
+    "descricao": "Uma máquina de pista não homologada para uso em estrada. Apresenta construção ultraleve e um motor V12 de corrida, sendo um dos carros mais extremos já construídos pela Pagani.",
+    "ano": 2009,
+    "link": "https://www.pagani.com/model/zonda-r/",
+    "imagem": "Pagani.jpg"
+  },
+  {
+    "nome": "BMW M4 Competition (G82)",
+    "descricao": "A versão de alta performance do Série 4 da BMW. Equipado com o motor S58 inline-six biturbo e conhecido por sua dirigibilidade afiada e design polarizador.",
+    "ano": 2021,
+    "link": "https://www.bmw-m.com/en/topics/magazine-article-pool/m4-competition.html",
+    "imagem": "BMW_M4.jpg"
+  },
+  {
+    "nome": "Dodge Viper ACR",
+    "descricao": "A versão 'American Club Racer' (ACR) é a máquina mais voltada para a pista do Viper, com foco em aerodinâmica maciça e pneus especializados para dominar circuitos.",
+    "ano": 1992,
+    "link": "https://www.dodge.com/viper/acr.html",
+    "imagem": "Dodge.jpg"
+  },
+  {
+    "nome": "Chevrolet Corvette Z06 (C7)",
+    "descricao": "O Corvette Z06 da sétima geração introduziu um motor V8 LT4 supercharged, elevando o desempenho americano a níveis de supercarros globais.",
+    "ano": 2015,
+    "link": "https://www.chevrolet.com/performance/corvette-z06",
+    "imagem": "Corvette_Z06.jpg"
+  },
+  {
+    "nome": "Porsche 911 GT3 RS (992)",
+    "descricao": "A versão mais extrema, focada em aerodinâmica e pista, do 911. Caracterizado por sua asa traseira massiva e motor boxer 4.0L naturalmente aspirado.",
+    "ano": 2022,
+    "link": "https://www.porsche.com/international/models/911/911-gt3-rs/",
+    "imagem": "porsche911.jpg"
+  },
+  {
+    "nome": "BMW 320i",
+    "descricao": "Equipado com um motor I4 2.0 turbo flex, o BMW 320i 2025 oferece 184 cv de potência e torque de 30,6 kgfm.",
+    "ano": 2018,
+    "link": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-Seda.html",
+    "imagem": "BMW_320i.jpg"
+  },
+  {
+    "nome": "Ferrari LaFerrari",
+    "descricao": "O primeiro hipercarro híbrido da Ferrari, utilizando o sistema HY-KERS. Combina um motor V12 atmosférico com um motor elétrico para potência total de 963 cv.",
+    "ano": 2013,
+    "link": "https://www.ferrari.com/en-EN/auto/laferrari",
+    "imagem": "LaFerrari.jpg"
+  },
+  {
+    "nome": "Lamborghini Diablo VT",
+    "descricao": "O primeiro Lamborghini a apresentar tração integral (Viscous Traction) e a versão de maior sucesso do lendário Diablo, um dos ícones V12 dos anos 90.",
+    "ano": 1993,
+    "link": "https://www.lamborghini.com/en-en/history/diablo",
+    "imagem": "Diablo.jpg"
+  },
+  {
+    "nome": "McLaren Senna",
+    "descricao": "Nomeado em homenagem ao lendário piloto Ayrton Senna, este hipercarro é focado unicamente na performance em pista, com aerodinâmica ativa e downforce extremo.",
+    "ano": 2018,
+    "link": "https://www.mclaren.com/automotive/history/senna/",
+    "imagem": "McLaren_Senna.jpg"
+  },
+  {
+    "nome": "Koenigsegg Agera RS",
+    "descricao": "Um carro de produção recordista que combinou a tecnologia do One:1 com a funcionalidade do Agera R, detentor de vários recordes mundiais de velocidade, incluindo o mais rápido de 0-400-0 km/h.",
+    "ano": 2015,
+    "link": "https://www.koenigsegg.com/model/agera-rs",
+    "imagem": "Koenigsegg_Agera.jpg"
+  },
+  {
+    "nome": "Aston Martin DBS Superleggera",
+    "descricao": "Um Super GT focado em alta velocidade e luxo. Equipado com um V12 biturbo que o coloca no topo da linha Aston Martin em termos de potência e presença.",
+    "ano": 2018,
+    "link": "https://www.astonmartin.com/en/models/dbs-superleggera",
+    "imagem": "Aston_DBS.jpg"
+  }
+]
